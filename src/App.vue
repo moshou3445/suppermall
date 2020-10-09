@@ -7,7 +7,14 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+import HelloWorld1 from './components/HelloWorld.vue'
+import HelloWorld2 from './components/HelloWorld.vue'
+console.log("123");
+console.log("123");
+console.log("123");
+console.log("123");
+console.log("123");
+console.log("123");
 export default {
   name: 'App',
   components: {
