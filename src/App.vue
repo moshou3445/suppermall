@@ -13,10 +13,11 @@ console.log("123");
 console.log("123");
 console.log("123");
 console.log("123");
-console.log("123");
+console.log("4444");
 console.log("123");
 console.log("5555");
 console.log("666");
+
 export default {
   name: 'App',
   components: {
